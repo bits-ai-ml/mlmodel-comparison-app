@@ -26,10 +26,7 @@ confusion matrix — deployed publicly on Streamlit Community Cloud.
 
 ## c. GitHub Repository Link
 
-`<PASTE_YOUR_GITHUB_REPO_URL_HERE>`
-
-*(e.g. https://github.com/bits-ai-ml/ml-assignment-2-akhil-jain — repo must contain
-source code, requirements.txt, this README, test_data.csv, and the model/ folder)*
+https://github.com/bits-ai-ml/mlmodel-comparison-app
 
 ## d. Models Used
 
@@ -80,7 +77,7 @@ project-folder/
    uploaded CSV has a `target` column)
 4. **Confusion matrix + classification report** — per-class breakdown for the selected model
 
-## Live Links (fill in after deployment)
+## Live Links
 
-- **GitHub Repository:** `<PASTE_YOUR_GITHUB_REPO_URL_HERE>`
-- **Live Streamlit App:** `<PASTE_YOUR_STREAMLIT_APP_URL_HERE>`
+- **GitHub Repository:** https://github.com/bits-ai-ml/mlmodel-comparison-app
+- **Live Streamlit App:** https://mlmodel-comparison-app-agtnqwfvzxte4pqrpvfbiu.streamlit.app/
