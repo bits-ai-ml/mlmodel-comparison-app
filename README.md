@@ -21,10 +21,7 @@ confusion matrix — deployed publicly on Streamlit Community Cloud.
   smoothness, compactness, concavity, concave points, symmetry, fractal dimension) reported
   as mean, standard error, and "worst" value → 30 features total (≥ 12 required)
 - **Target:** binary — `0 = malignant` (212 cases), `1 = benign` (357 cases)
-- **Why this dataset:** the combined UCI Heart Disease sources either fall short of the
-  500-instance minimum (Cleveland-only subset: 303 rows) or the 12-feature minimum (the
-  5-database combined version only shares 11 common columns). This dataset comfortably
-  satisfies both requirements and loads without any external download, which also makes it
+- **Why this dataset:** This dataset comfortably satisfies both requirements and loads without any external download, which also makes it
   reliable to run on the BITS Virtual Lab.
 
 ## c. GitHub Repository Link
