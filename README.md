@@ -32,6 +32,10 @@ https://github.com/bits-ai-ml/mlmodel-comparison-app
 
 All 5 models were trained on the same 80/20 stratified train/test split of the dataset above.
 
+**Metric convention:** The original sklearn target encoding is retained (`0 = malignant`,
+`1 = benign`); therefore binary Precision, Recall, and F1 below treat benign (`1`) as the
+positive class.
+
 | ML Model Name | Accuracy | AUC | Precision | Recall | F1 | MCC |
 |---|---|---|---|---|---|---|
 | Logistic Regression | 0.9825 | 0.9954 | 0.9861 | 0.9861 | 0.9861 | 0.9623 |
